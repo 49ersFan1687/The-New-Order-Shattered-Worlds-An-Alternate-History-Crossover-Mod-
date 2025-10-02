@@ -3,7 +3,7 @@ characters = {
     CAL_Henry_Agard_Wallace = {
         name = CAL_Henry_Agard_Wallace
         portraits = {
-            civillian = {
+            civilian = {
                 large =
             }
         }
@@ -11,11 +11,27 @@ characters = {
     CAL_Huey_Pierce_Long = {
         name = CAL_Huey_Pierce_Long
         portraits = {
-            civillian = {
+            civilian = {
                 large = 
             }
         }
     }
 
     # Generals #
+    CAL_Dwight_D_Eisenhower = {
+        name = CAL_Dwight_D_Eisenhower
+        portraits = {
+            army = {
+
+            }
+            civilian = {
+
+            }
+        }
+        field_marshal = {
+            desc = 
+            traits = { }
+        }
+    }
+
 }
