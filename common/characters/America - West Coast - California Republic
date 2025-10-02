@@ -1,4 +1,21 @@
 characters = {
     # Country Leaders #
-    name = CAL_Henry_Agard_Wallace
+    CAL_Henry_Agard_Wallace = {
+        name = CAL_Henry_Agard_Wallace
+        portraits = {
+            civillian = {
+                large =
+            }
+        }
+    }
+    CAL_Huey_Pierce_Long = {
+        name = CAL_Huey_Pierce_Long
+        portraits = {
+            civillian = {
+                large = 
+            }
+        }
+    }
+
+    # Generals #
 }
