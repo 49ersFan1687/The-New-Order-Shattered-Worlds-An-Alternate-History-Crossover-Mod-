@@ -66,4 +66,15 @@ characters = {
             traits = { }
         }
     }
+    CAL_George_Smith_Patton_Jr = {
+        name = CAL_George_Smith_Patton_Jr
+        portraits = {
+            army = {
+                large = 
+            }
+        }
+        corps_commander = {
+            traits = { }
+        }
+    }
 }
