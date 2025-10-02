@@ -22,7 +22,8 @@ characters = {
         name = CAL_Dwight_D_Eisenhower
         portraits = {
             army = {
-
+                large =
+                small = 
             }
             civilian = {
 
