@@ -4,7 +4,7 @@ characters = {
         name = CAL_Henry_Agard_Wallace
         portraits = {
             civilian = {
-                large =
+                large = 
             }
         }
     }
