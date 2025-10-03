@@ -1,0 +1,35 @@
+
+state={
+	id=611
+	name="STATE_611" # South Chahar
+	manpower = 692100
+	
+	state_category = rural
+
+	history={
+		owner = JAP
+		
+		add_core_of = CHI
+		add_core_of = PRC
+		add_core_of = HCH
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		victory_points = {
+			11752 5
+		}
+		
+		1936.5.12 = {
+			owner = MEN
+			controller = MEN
+			add_core_of = MEN
+		}
+	}
+
+	provinces={
+		4612 7545 7674 11752 
+	}
+
+	local_supplies=0.0 
+}
