@@ -1,0 +1,67 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_report_gamelin_election_event"
+		texturefile = "gfx/event_pictures/gamelin_election_event.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_daladier_election_event"
+		texturefile = "gfx/event_pictures/daladier_election_event.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_pierre_laval_election_event"
+		texturefile = "gfx/event_pictures/pierre_laval_election_event.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_grozas_speech_event"
+		texturefile = "gfx/event_pictures/grozas_speech_event.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_orchestra_event"
+		texturefile = "gfx/event_pictures/orchestra_event.dds"
+	}
+
+	spriteType = {
+		name = "GFX_news_event_garbai_victory"
+		texturefile = "gfx/event_pictures/news_event_garbai_victory.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_otto_von_habsburg_event"
+		texturefile = "gfx/event_pictures/otto_von_habsburg_event.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_commune_of_paris_event"
+		texturefile = "gfx/event_pictures/commune_of_paris_event.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_mongolian_regency_event"
+		texturefile = "gfx/event_pictures/mongolian_regency_event.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_workers_government_cze_election_event"
+		texturefile = "gfx/event_pictures/workers_government_cze_election_event.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_collapse_of_the_mandate_event"
+		texturefile = "gfx/event_pictures/collapse_of_the_mandate_event.dds"
+	}
+
+	spriteType = {
+		name = "GFX_news_collapse_of_the_mandate_news"
+		texturefile = "gfx/event_pictures/collapse_of_the_mandate_news.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_comet_sight_event"
+		texturefile = "gfx/event_pictures/comet_sight_event.dds"
+	}
+}
