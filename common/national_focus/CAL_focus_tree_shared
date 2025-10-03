@@ -34,3 +34,8 @@ shared_focus = {
 	id = CAL_what_to_do_next
 	icon = GFX_
 }
+
+shared_focus = {
+	id = CAL_what_to_do_next
+	icon = GFX_
+}
