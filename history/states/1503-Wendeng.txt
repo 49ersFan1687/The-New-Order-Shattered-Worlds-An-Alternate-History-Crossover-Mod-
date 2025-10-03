@@ -1,0 +1,32 @@
+state=
+{
+	id=1503
+	name="STATE_1503"
+	manpower = 621230
+	state_category = rural
+	
+	
+	history=
+	{
+		owner = SND
+		add_core_of = SND
+		add_core_of = CHI
+		add_core_of = PRC
+		victory_points = {
+			4205 3 
+		}
+		buildings = {
+			infrastructure = 2
+		}
+
+		1938.10.25 = {
+			owner = CHI
+			controller = JAP
+		}
+	}
+	provinces={
+		4205
+	}
+
+	local_supplies=0.0 
+}

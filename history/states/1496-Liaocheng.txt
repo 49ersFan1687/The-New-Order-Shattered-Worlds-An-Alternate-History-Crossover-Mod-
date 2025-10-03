@@ -1,0 +1,32 @@
+state=
+{
+	id=1496
+	name="STATE_1496"
+	manpower = 392560
+	state_category = town
+	
+	
+	history=
+	{
+		owner = SND
+		add_core_of = SND
+		add_core_of = CHI
+		add_core_of = PRC
+		victory_points = {
+			9987 10 
+		}
+		buildings = {
+			infrastructure = 2
+		}
+
+		1938.10.25 = {
+			owner = CHI
+			controller = JAP
+		}
+	}
+	provinces={
+		9987 11933 13958 13959 
+	}
+
+	local_supplies=0.0 
+}
