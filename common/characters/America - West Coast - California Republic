@@ -16,7 +16,6 @@ characters = {
             }
         }
     }
-
     # Generals #
     CAL_Dwight_D_Eisenhower = {
         name = CAL_Dwight_D_Eisenhower
@@ -32,6 +31,7 @@ characters = {
         field_marshal = {
             desc = 
             traits = { }
+
         }
     }
     CAL_George_Catlett_Marshall = {
@@ -77,4 +77,137 @@ characters = {
             traits = { }
         }
     }
+    CAL_Walton_Harris_Walker = {
+        name = CAL_Walton_Harris_Walker
+        portraits = {
+            army = {
+                large = 
+            }
+        }
+        corps_commander = {
+            traits = { }
+        }
+    }
+    CAL_Smedley_Darlington_Butler = {
+        name = CAL_Smedley_Darlington_Butler
+        portraits = {
+            army = {
+                large = 
+            }
+        }
+        corps_commander = {
+            traits = { }
+        }
+    }
+    CAL_Glynda_Goodwitch = {
+        name = CAL_Glynda_Goodwitch
+        portraits = {
+            army = {
+                large = 
+            }
+        }
+        corps_commander = {
+            traits = { }
+        }
+    }
+    CAL_William_Childs_Westmoreland = {
+        name = CAL_William_Childs_Westmoreland
+        portraits = {
+            army = {
+                large = 
+            }
+        }
+        corps_commander = {
+            traits = { }
+        }
+    }
+    CAL_Maxwell_Davenport_Taylor = {
+        name = CAL_Maxwell_Davenport_Taylor
+        portraits = {
+            army = {
+                large = 
+            }
+        }
+        corps_commander = {
+            traits = { }
+        }
+    }
+    CAL_Mark_Wayne_Clark = {
+        name = CAL_Mark_Wayne_Clark
+        portraits = {
+            army = {
+                large = 
+            }
+        }
+        corps_commander = {
+            traits = { }
+        }
+    }
+    CAL_Henry_Harley_Arnold = {
+        name = CAL_Henry_Harley_Arnold
+        portraits = {
+            army = {
+                large = 
+            }
+        }
+        corps_commander = {
+            traits = { }
+        }
+    }
+    CAL_Jacob_Loucks_Devers = {
+        name = CAL_Jacob_Loucks_Devers
+        portraits = {
+            army = {
+                large = 
+            }
+        }
+        corps_commander = {
+            traits = { }
+        }
+    }
+    CAL_Lucian_King_Truscott = {
+        name = CAL_Lucian_King_Truscott
+        portraits = {
+            army = {
+                large = 
+            }
+        }
+        corps_commander = {
+            traits = { }
+        }
+    }
+    CAL_Leonard_Townsend_Gerow = {
+        name = CAL_Leonard_Townsend_Gerow
+        portraits = {
+            army = {
+                large = 
+            }
+        }
+        corps_commander = {
+            traits = { }
+        }
+    }
+    CAL_Benjamin_Oliver_Davis_Sr = {
+        name = CAL_Benjamin_Oliver_Davis_Sr
+        portraits = {
+            army = {
+                large = 
+            }
+        }
+        corps_commander = {
+            traits = { }
+        }
+    }
+    CAL_Ulysses_Simpson_Grant_III = {
+        name = CAL_Ulysses_Simpson_Grant_III
+        portraits = {
+            army = {
+                large = 
+            }
+        }
+        corps_commander = {
+            traits = { }
+        }
+    }
+
 }
