@@ -1,0 +1,43 @@
+
+state={
+	id=385
+	name="STATE_385"
+	manpower = 683785
+	
+	state_category = town
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 3 #was: 5
+			air_base = 6
+		}
+		victory_points = {
+			3513 3 #Salem
+		}
+		victory_points = {
+			12281 2 #Eugene
+		}
+		victory_points = {
+			11733 2 #Medford
+		}
+		victory_points = {
+			4347 2 #Klamath Falls
+		}
+		victory_points = {
+			7865 1 #Pendleton
+		}
+		victory_points = {
+			4826 1 #La Grande
+		}
+		add_core_of = USA
+		add_core_of = ORS
+		add_core_of = CSC
+	}
+
+	provinces={
+		505 528 1414 3471 3513 4274 4328 4347 4826 7398 7865 10151 10305 10625 11495 11733 12183 12281 13711
+	}
+
+	local_supplies=0.0 
+}

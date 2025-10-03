@@ -1,0 +1,52 @@
+
+state={
+	id=387
+	name="STATE_387"
+	manpower = 443031
+	
+	state_category = rural
+	
+	resources={
+		steel=18 # was: 32
+		chromium=1 # was: 2
+		tungsten=18 # was: 34
+	}
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			9616 3 #Boise
+		}
+		victory_points = {
+			12535 2 #Pocatello
+		}
+		victory_points = {
+			10672 2 #Idaho Falls
+		}
+		victory_points = {
+			9695 2 #Twin Falls
+		}
+		victory_points = {
+			12607 2 #Nampa
+		}
+		victory_points = {
+			4778 1 #Lewiston
+		}
+		victory_points = {
+			12124 1 #Coeur d'Alene
+		}
+		add_core_of = USA
+		add_core_of = IDS
+		add_core_of = CSC
+	}
+
+	provinces={
+		1789 1832 3781 4778 7845 9616 9695 10556 10602 10672 12124 12535 12607 
+	}
+	
+
+	local_supplies=7.0 
+}

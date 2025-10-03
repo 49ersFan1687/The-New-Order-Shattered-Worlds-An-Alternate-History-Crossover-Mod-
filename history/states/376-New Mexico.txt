@@ -1,0 +1,37 @@
+
+state={
+	id=376
+	name="STATE_376"
+	manpower = 255230
+	
+	state_category = rural
+	
+	resources={
+		oil=6
+		aluminium=25
+	}
+
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		victory_points = {
+			13700 3 #Albuquerque
+		}
+		victory_points = {
+			10645 1 #Farmington
+		}
+		add_core_of = USA
+		add_core_of = NMS
+	}
+
+	provinces={
+		1972 3883 5044 10645 10914 12552 12791 13699 13700
+	}
+	
+
+	local_supplies=0.0 
+}

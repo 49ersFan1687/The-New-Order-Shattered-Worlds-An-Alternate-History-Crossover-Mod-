@@ -1,0 +1,70 @@
+
+state={
+	id=378
+	name="STATE_378"
+	manpower = 3342712
+	
+	state_category = large_city
+	
+	resources={
+		oil=110
+		aluminium=5
+	}
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 3 #was: 6
+			arms_factory = 1
+			industrial_complex = 3
+			dockyard = 2
+			air_base = 10
+			1562 = {
+				naval_base = 10
+			}
+			9814 = {
+				naval_base = 5
+			}
+		}
+		add_core_of = USA
+		add_core_of = CAL
+		victory_points = {
+			9814 30 #Los Angeles
+		}
+		victory_points = {
+			1562 7 #San Diego
+		}
+		victory_points = {
+			4518 4 #Fresno
+		}
+		victory_points = {
+			6699 3 #Stockton
+		}
+		victory_points = {
+			10483 3 #San Bernardino
+		}
+		victory_points = {
+			9855 3 #Bakersfield
+		}
+		victory_points = {
+			11859 3 #Santa Barbara
+		}
+		victory_points = {
+			6694 2 #Modesto
+		}
+		victory_points = {
+			7517 1 #Oceanside
+		}
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 5
+			}
+		}
+	}
+
+	provinces={
+		823 941 986 1432 1562 1601 1651 3677 3784 3840 4518 4657 4727 6694 6699 6861 6876 6881 7517 7667 7986 9637 9814 9855 9911 10387 10483 11757 11763 11795 11859 11876 12303 12374 13999
+	}
+
+	local_supplies=0.0 
+}
