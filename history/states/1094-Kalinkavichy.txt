@@ -1,0 +1,32 @@
+
+state={
+	id=1094
+	name="STATE_1094"
+	manpower = 363220
+	
+	state_category = rural
+
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			9249 2 #Rechitsa
+		}
+		victory_points = {
+			3203 1 #Kalinkavichy
+		}
+		victory_points = {
+			215 1 #Žytkavičy
+		}
+		add_core_of = SOV
+		add_core_of = BLR
+	}
+
+	provinces={
+		215 304 3203 3293 6319 11313
+	}
+
+	local_supplies=0.0 
+}
