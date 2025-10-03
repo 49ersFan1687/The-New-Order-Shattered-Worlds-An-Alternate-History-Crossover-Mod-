@@ -1,0 +1,25 @@
+### Starting Focus Tree - California Republic ###
+shared_focus = {
+	id = CAL_the_great_western_retreat
+	icon = GFX_
+	x = 1
+	y = 0
+
+	cost = 5
+
+	available = {
+
+	}
+
+	bypass = {
+		
+	}
+
+	cancel_if_invalid = yes
+	continue_if_invalid = no
+	available_if_capitulated = no
+
+	completion_reward = {
+		custom_effect_tooltip = RMS_land_of_the_free_tt
+	}
+}
