@@ -1,0 +1,27 @@
+
+state={
+	id=1160
+	name="STATE_1160"
+	manpower = 62300
+	
+	state_category = rural
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 3 #was: 5
+		}
+		victory_points = {
+			7721 1 #Ontario
+		}
+		add_core_of = USA
+		add_core_of = ORS
+		add_core_of = CSC
+	}
+
+	provinces={
+		7721 12553
+	}
+
+	local_supplies=0.0 
+}
