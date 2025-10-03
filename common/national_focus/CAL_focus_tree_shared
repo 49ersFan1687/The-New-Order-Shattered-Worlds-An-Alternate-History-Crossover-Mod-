@@ -1,4 +1,5 @@
 ### Starting Focus Tree - California Republic ###
+
 shared_focus = {
 	id = CAL_the_great_western_retreat
 	icon = GFX_
@@ -22,4 +23,8 @@ shared_focus = {
 	completion_reward = {
 		
 	}
+}
+
+shared_focus = {
+    
 }
