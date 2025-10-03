@@ -1,0 +1,50 @@
+
+state={
+	id=1563
+	name="STATE_1563"
+	manpower = 1923560
+	
+	state_category = large_town
+	
+	resources={
+		oil=70
+		aluminium=3
+	}
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 3 #was: 6
+			arms_factory = 1
+			industrial_complex = 1
+			610 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = USA
+		add_core_of = CAL
+		victory_points = {
+			9713 5 #Sacramento
+		}
+		victory_points = {
+			9697 2 #Chico
+		}
+		victory_points = {
+			781 1 #Redding
+		}
+		victory_points = {
+			3644 1 #Crescent City
+		}
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 2
+			}
+		}
+	}
+
+	provinces={
+		610 710 766 768 781 3588 3644 4331 6482 6665 6745 6757 6772 9697 9713 9730 10159 11698 14000
+	}
+
+	local_supplies=0.0 
+}
