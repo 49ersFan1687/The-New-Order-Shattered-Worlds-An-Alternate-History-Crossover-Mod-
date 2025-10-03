@@ -20,6 +20,6 @@ shared_focus = {
 	available_if_capitulated = no
 
 	completion_reward = {
-		custom_effect_tooltip = RMS_land_of_the_free_tt
+		
 	}
 }
