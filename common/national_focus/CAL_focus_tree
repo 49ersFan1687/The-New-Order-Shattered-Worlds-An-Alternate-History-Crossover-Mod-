@@ -1,0 +1,27 @@
+### Civil War Focus Tree - Buryatia ###
+
+focus_tree = {
+    id = CAL_starting_focus_tree
+    country = {
+        factor = 0
+         modifier = {
+            add = 10
+            tag = BRY
+        }
+    }
+    default = no
+    focus = {
+        id = CAL_the_great_western_retreat
+        icon = GFX
+        cost = 3
+        available_if_capitulated = no
+        ai_will_do = {
+            factor = 1
+        }
+        x = 6
+		y = 0
+        completion_reward = {
+            log = "[GetDateText]: [Root.GetName]: Focus CAL_the_great_western_retreat"
+        }
+    }
+}
