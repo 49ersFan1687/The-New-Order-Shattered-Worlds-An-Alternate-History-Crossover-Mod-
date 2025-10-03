@@ -27,4 +27,5 @@ shared_focus = {
 
 shared_focus = {
     id = CAL_our_current_situation
+	icon = GFX_
 }
